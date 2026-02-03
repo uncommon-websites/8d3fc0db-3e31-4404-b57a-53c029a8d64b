@@ -4,11 +4,11 @@
 <section class="bg-[#f0efeb] py-24 px-6">
   <div class="max-w-[1200px] mx-auto">
     <div class="mb-24">
-      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your main home might get jealous</h2>
+      <h2 class="text-[40px] font-light text-white absolute z-10 p-12 max-w-[400px]">Your legacy deserves better than spreadsheets</h2>
       <div class="h-[600px] rounded-2xl overflow-hidden relative">
         <img 
-          src="https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?q=80&w=2070&auto=format&fit=crop" 
-          alt="Main home jealous" 
+          src="/generated/image-executive-working-on-laptop-with-financi-1770162393260-3.webp" 
+          alt="AI-powered workflows" 
           class="w-full h-full object-cover"
         />
       </div>
@@ -19,14 +19,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556228453-efd6c1ff04f6?q=80&w=2070&auto=format&fit=crop" 
-            alt="Living room" 
+            src="/generated/image-professional-team-analyzing-investment-p-1770162395275-4.webp" 
+            alt="Alternative investments" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Designed to live big.</h3>
+        <h3 class="text-xl font-normal mb-2">Alternative investment expertise.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Despite its small footprint, Backyard feels like a full-sized home, thanks to airy cathedral ceilings, well-proportioned layouts, and never built-in storage.
+          Access institutional-grade alternative investments with deep expertise from Goldman Sachs, Morgan Stanley, and Och-Ziff veterans. Navigate complex opportunities with confidence.
         </p>
       </div>
 
@@ -34,14 +34,14 @@
       <div>
         <div class="h-[400px] rounded-2xl overflow-hidden mb-6">
           <img 
-            src="https://images.unsplash.com/photo-1556911220-bff31c812dba?q=80&w=2068&auto=format&fit=crop" 
-            alt="Kitchen" 
+            src="/generated/image-modern-wealth-management-office-with-sle-1770162385550-0.webp" 
+            alt="AI automation" 
             class="w-full h-full object-cover"
           />
         </div>
-        <h3 class="text-xl font-normal mb-2">Kitchens worth cooking in.</h3>
+        <h3 class="text-xl font-normal mb-2">AI agents that never sleep.</h3>
         <p class="text-gray-500 text-sm leading-relaxed">
-          Premium, fully electric, and impeccably beautiful. The induction cooktop boils water in seconds. An integrated dishwasher cleans up in silence.
+          Our AI-powered platform automates 90% of operational workflows—from tax optimization to portfolio rebalancing. Institutional efficiency meets modern technology.
         </p>
       </div>
     </div>
