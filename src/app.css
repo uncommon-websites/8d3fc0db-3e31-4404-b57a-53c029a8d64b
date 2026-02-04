@@ -1,42 +1,45 @@
 @import "tailwindcss";
 
 @theme {
-	/* Colors - Atlas Brand */
-	--color-gray-50: oklch(0.985 0.001 106.423);
-	--color-gray-100: oklch(0.97 0.001 106.424);
-	--color-gray-200: oklch(0.923 0.003 48.717);
-	--color-gray-300: oklch(0.869 0.005 56.366);
-	--color-gray-400: oklch(0.709 0.01 56.259);
-	--color-gray-500: oklch(0.553 0.013 58.071);
-	--color-gray-600: oklch(0.444 0.011 73.639);
-	--color-gray-700: oklch(0.374 0.01 67.558);
-	--color-gray-800: oklch(0.268 0.007 34.298);
-	--color-gray-900: oklch(0.216 0.006 56.043);
-	--color-gray-950: oklch(0.147 0.004 49.25);
+	/* Colors - Atlas Heritage Palette */
+	/* Warm neutrals inspired by aged parchment and fine leather */
+	--color-gray-50: oklch(0.98 0.003 85);
+	--color-gray-100: oklch(0.96 0.004 85);
+	--color-gray-200: oklch(0.92 0.006 85);
+	--color-gray-300: oklch(0.85 0.008 85);
+	--color-gray-400: oklch(0.70 0.010 85);
+	--color-gray-500: oklch(0.55 0.012 85);
+	--color-gray-600: oklch(0.45 0.014 85);
+	--color-gray-700: oklch(0.35 0.012 85);
+	--color-gray-800: oklch(0.25 0.010 85);
+	--color-gray-900: oklch(0.18 0.008 85);
+	--color-gray-950: oklch(0.12 0.006 85);
 
-	--color-primary-50: oklch(0.971 0.013 17.38);
-	--color-primary-100: oklch(0.936 0.032 17.717);
-	--color-primary-200: oklch(0.885 0.062 18.334);
-	--color-primary-300: oklch(0.808 0.114 19.571);
-	--color-primary-400: oklch(0.704 0.191 22.216);
-	--color-primary-500: oklch(0.637 0.237 25.331);
-	--color-primary-600: oklch(0.577 0.245 27.325);
-	--color-primary-700: oklch(0.505 0.213 27.518);
-	--color-primary-800: oklch(0.444 0.177 26.899);
-	--color-primary-900: oklch(0.396 0.141 25.723);
-	--color-primary-950: oklch(0.258 0.092 26.042);
+	/* Deep burgundy and gold - old money heritage */
+	--color-primary-50: oklch(0.96 0.015 25);
+	--color-primary-100: oklch(0.92 0.025 25);
+	--color-primary-200: oklch(0.85 0.040 25);
+	--color-primary-300: oklch(0.75 0.060 25);
+	--color-primary-400: oklch(0.60 0.080 25);
+	--color-primary-500: oklch(0.45 0.095 25);
+	--color-primary-600: oklch(0.35 0.085 25);
+	--color-primary-700: oklch(0.28 0.075 25);
+	--color-primary-800: oklch(0.22 0.060 25);
+	--color-primary-900: oklch(0.18 0.045 25);
+	--color-primary-950: oklch(0.12 0.030 25);
 
-	--color-secondary-50: oklch(97% 0.015 30);
-	--color-secondary-100: oklch(92% 0.02 30);
-	--color-secondary-200: oklch(86% 0.03 30);
-	--color-secondary-300: oklch(80% 0.04 30);
-	--color-secondary-400: oklch(74% 0.05 30);
-	--color-secondary-500: oklch(68% 0.06 30);
-	--color-secondary-600: oklch(60% 0.07 30);
-	--color-secondary-700: oklch(52% 0.08 30);
-	--color-secondary-800: oklch(40% 0.09 30);
-	--color-secondary-900: oklch(30% 0.1 30);
-	--color-secondary-950: oklch(20% 0.11 30);
+	/* Warm gold accents */
+	--color-secondary-50: oklch(0.97 0.020 85);
+	--color-secondary-100: oklch(0.93 0.035 85);
+	--color-secondary-200: oklch(0.88 0.050 85);
+	--color-secondary-300: oklch(0.80 0.070 85);
+	--color-secondary-400: oklch(0.70 0.090 85);
+	--color-secondary-500: oklch(0.60 0.105 85);
+	--color-secondary-600: oklch(0.50 0.095 85);
+	--color-secondary-700: oklch(0.42 0.080 85);
+	--color-secondary-800: oklch(0.35 0.065 85);
+	--color-secondary-900: oklch(0.28 0.050 85);
+	--color-secondary-950: oklch(0.20 0.035 85);
 
 	--font-body: var(--font-family), var(--font-fallback);
 	--font-display: var(--font-body);
