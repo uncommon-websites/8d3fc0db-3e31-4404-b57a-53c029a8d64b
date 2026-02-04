@@ -12,6 +12,8 @@
       <a href="#" class="hover:text-white transition-colors">How it works</a>
       <a href="#" class="hover:text-white transition-colors">Investments</a>
       <a href="#" class="hover:text-white transition-colors">Advisors</a>
+      <a href="#" class="hover:text-white transition-colors">Asset Management</a>
+      <a href="#" class="hover:text-white transition-colors">Merchant Banking</a>
     </div>
   </div>
 
